@@ -1,0 +1,7 @@
+notebook
+pandas
+scikit-learn
+matplotlib
+pydot
+bayesian-optimization
+tensorflow
