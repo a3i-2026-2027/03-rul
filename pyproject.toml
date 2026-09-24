@@ -27,3 +27,6 @@ dev = [
     "nbconvert[webpdf] (>=7.17.1,<8.0.0)",
     "jupyterlab-rise (>=0.43.1,<0.44.0)"
 ]
+
+[tool.poetry]
+package-mode = false
